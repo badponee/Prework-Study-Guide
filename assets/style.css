@@ -6,7 +6,7 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color: rgb(237, 200, 13);
+    background-color: rgb(122, 175, 23);
     color: white;
 }
 h1,
@@ -31,6 +31,6 @@ p {
   .card {
   width: 80%;
   margin: 40px auto;
-  border: 5px solid rgb(15, 123, 129);
+  border: 5px solid rgb(19, 163, 171);
   box-shadow: 5px 10px #093a1b;
 }
